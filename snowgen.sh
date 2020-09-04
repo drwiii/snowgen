@@ -5,7 +5,7 @@
 # Copyright (C) 2020, Douglas Rice Winslow III <winslowdoug@gmail.com>
 # All Rights Reserved.
 #
-# This is the world-famous Edward Snowgen script.
+# This is the world-famous Edword Snowgen script.
 # Do not hack the Gibson with this without permission is what he didn't say.
 #
 # If you need a Windows XP key, this will also work; send it to Bill Gates.
